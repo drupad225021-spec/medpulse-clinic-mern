@@ -2,7 +2,9 @@
 **ICTAK MERN Stack Project**  
 *A complete full-stack web application adhering strictly to the ICT Academy of Kerala (ICTAK) MERN Stack Project Guidelines.*
 
-**GitHub Repository:** [https://github.com/drupad225021-spec/medpulse-clinic-mern](https://github.com/drupad225021-spec/medpulse-clinic-mern)
+**GitHub Repository:** [https://github.com/drupad225021-spec/medpulse-clinic-mern](https://github.com/drupad225021-spec/medpulse-clinic-mern)  
+**Live Frontend Application (Vercel):** [https://medpulse-clinic-mern.vercel.app](https://medpulse-clinic-mern.vercel.app)  
+**Live Backend API (Render):** [https://medpulse-clinic-mern.onrender.com](https://medpulse-clinic-mern.onrender.com)  
 
 ---
 
